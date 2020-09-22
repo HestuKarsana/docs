@@ -1,0 +1,13 @@
+{
+  "name": "Partnership Documentaition API ",
+  "version": "0.0.1",
+  "description": "",
+  "apidoc": {
+    "title": "isi sesuai kebutuhan",
+    "url" : "http://linkapikamu.com"
+  },
+  "template": {
+    "withCompare": true,
+    "withGenerator": true
+  }
+}
