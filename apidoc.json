@@ -1,10 +1,10 @@
 {
-  "name": "Partnership Documentaition API ",
+  "name": "Partnership Documentation API ",
   "version": "0.0.1",
   "description": "",
   "apidoc": {
-    "title": "isi sesuai kebutuhan",
-    "url" : "http://linkapikamu.com"
+    "title": "",
+    "url" : "https://qposanbox.posindonesia.co.id"
   },
   "template": {
     "withCompare": true,
